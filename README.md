@@ -14,6 +14,11 @@ The boring stuff that you need to learn first:
 4. Change the style to whatever you want. 
 3. Deploy the web page by following the instructions there.
 
+Things to learn (Ask Jershon):
+- Git flow
+- Local dev environment
+- Code conventions
+
 ## Week 2: JS and React
 
 ## Week 3: Node and Postgres
