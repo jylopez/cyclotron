@@ -8,7 +8,14 @@ The boring stuff that you need to learn first:
 
 <b>Project 1</b>: Build your own website.
 1. Create a github account.
+2. Get [VS Code](https://code.visualstudio.com/).
 2. Fork [this project](https://github.com/jlord/hello). 
 3. Add your own bio and links.
 4. Change the style to whatever you want. 
 3. Deploy the web page by following the instructions there.
+
+## Week 2: JS and React
+
+## Week 3: Node and Postgres
+
+## Week 4: The Full Request Cycle
