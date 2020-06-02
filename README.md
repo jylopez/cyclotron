@@ -14,10 +14,49 @@ The boring stuff that you need to learn first:
 4. Change the style to whatever you want. 
 3. Deploy the web page by following the instructions there.
 
-Things to learn (Ask Jershon):
-- Git flow
+Concepts to learn:
+- [Git](https://rogerdudler.github.io/git-guide/)
+  - Starting a new project 
+    - `fork`
+    - `clone`
+    - `init`
+  - Branches
+    -  `checkout` 
+    - master branch
+    - working branch
+    - local
+    - remote
+  - Making changes
+    - Discarding local changes
+    - `stash`
+  - Pull Request Cycle, "Git Flow" 
+    1. Pull master
+    2. Create working branch (wb)
+    3. Switch to wb
+    4. Change code
+    5. Stage and commit changes
+    6. Switch to master
+    7. Pull master
+    8. Switch to wb
+    9. Merge locally, master -> wb
+    10. Publish branch to github
+    11. Create Pull Request
+    12. Merge remotely, wb -> master
+    13. Switch to master locally
+  - Git client
 - Local dev environment
-- Code conventions
+  - VS Code
+  - Folder structure
+  - Command line, bash
+    - `pwd`
+    - `cd`
+    - `ls`
+  - Code conventions
+  - Browser inspect
+- CSS selectors
+- Static vs Dynamic
+- Website vs Web App
+- Server vs Client
 
 ## Week 2: JS and React
 
