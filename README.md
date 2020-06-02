@@ -58,7 +58,18 @@ Concepts to learn:
 - Website vs Web App
 - Server vs Client
 
-## Week 2: JS and React
+## Week 2: Dynamic Webpage
+One more boring assignment:
+1. Complete codecademy [js](https://www.codecademy.com/learn/introduction-to-javascript) course.
+
+<b>Project 2</b>: Build a dynamic webpage with react and public apis.
+1. Clone [template-single-page](https://github.com/jylopez/template-single-page)
+2. Build a webpage that gets data from some [public api](https://github.com/public-apis/public-apis)
+
+Concepts to learn:
+- React
+  - Lifecycle
+- APIs
 
 ## Week 3: Node and Postgres
 
